@@ -1,0 +1,59 @@
+*{
+	color: #262626;
+	padding: 0;
+	margin: 0;
+	/*font-family: 'Inter', sans-serif;*/
+	font-size: 16px;
+	font-weight: 400;
+	font-family: 'Overpass', sans-serif;
+}
+
+
+body{
+	background-color: #FFFFFF;
+}
+
+.theme{
+	background-color: #001A3A;
+}
+
+.light{
+	background-color: #F5F5F5;
+}
+
+.yellow{
+	background-color: #FB8500;
+}
+
+.black{
+	background-color: #3636CD;
+}
+
+.blue{
+	background-color: #219EBC;
+}
+
+.color{
+	color: #334155 !important;
+}
+
+.dark{
+	background-color: #023047;
+}
+
+.black *{
+	color: #000000;
+}
+
+.white *{
+	color: rgba(255, 255, 255, 1); !important;
+}
+
+.yellow-text{
+	color: #FFB703 !important;
+}
+
+.up{
+	margin-top: -50px;
+}
+
